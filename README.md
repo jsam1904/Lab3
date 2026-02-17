@@ -34,7 +34,6 @@ Lab3/
 │   ├── victoria.html          # Final: ¡Clasificó al Mundial!
 │   └── derrota.html           # Final: Se queda fuera
 └── images/                    # Carpeta de imágenes
-    └── estadio.jpg            # Imagen del estadio
 ```
 ---
 
