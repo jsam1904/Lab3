@@ -21,21 +21,21 @@ El proyecto fue desarrollado únicamente con HTML, sin uso de CSS ni JavaScript,
 ---
 
 ## Estructura del Proyecto
-.
-├── index.html
-├── README.md
-│
-├── entrenamiento
-│   ├── decision.html
-│   └── fracaso.html
-│
-├── partido
-│   ├── eliminatoria.html
-│   ├── victoria.html
-│   └── derrota.html
-│
-└── images
-    └── estadio.jpg
+
+```
+Lab3/
+├── index.html                 # Página de inicio de la historia
+├── README.md                  # Este archivo
+├── entrenamiento/             # Sección de entrenamiento
+│   ├── decision.html          # Página de elección de entrenamiento
+│   └── fracaso.html           # Final: Entrenamiento insuficiente
+├── partido/                   # Sección del partido
+│   ├── eliminatoria.html      # Partido clasificatorio
+│   ├── victoria.html          # Final: ¡Clasificó al Mundial!
+│   └── derrota.html           # Final: Se queda fuera
+└── images/                    # Carpeta de imágenes
+    └── estadio.jpg            # Imagen del estadio
+```
 ---
 
 ## Navegación
