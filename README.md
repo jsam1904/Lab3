@@ -21,20 +21,21 @@ El proyecto fue desarrollado únicamente con HTML, sin uso de CSS ni JavaScript,
 ---
 
 ## Estructura del Proyecto
-index.html
-README.md
-
-/entrenamiento
-  decision.html
-  fracaso.html
-
-/partido
-  eliminatoria.html
-  victoria.html
-  derrota.html
-
-/images
-  estadio.jpg
+.
+├── index.html
+├── README.md
+│
+├── entrenamiento
+│   ├── decision.html
+│   └── fracaso.html
+│
+├── partido
+│   ├── eliminatoria.html
+│   ├── victoria.html
+│   └── derrota.html
+│
+└── images
+    └── estadio.jpg
 ---
 
 ## Navegación
